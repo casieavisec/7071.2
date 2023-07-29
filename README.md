@@ -20,3 +20,5 @@ MIT License.
 
 # Contact
 If you have any questions or feedback, feel free to reach out.
+
+### *** Please note that there is no <i>train.csv</i> inside the AG_News_Archive directory. I can't upload the file as it is more than 25 GB. Click the database link on notebook to download the dataset. ***
